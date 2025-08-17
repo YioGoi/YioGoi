@@ -1,4 +1,4 @@
-# Hi, I'm YioGoi 👋
+# Hi, I'm Yiğit Doğan 👋
 
 Senior Frontend Developer | React, Next, TypeScript, UI/UX Enthusiast
 
